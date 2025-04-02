@@ -4,6 +4,9 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'WeSlackOff - Slack Smarter, Not Harder',
   description: 'WeSlackOff is an invisible AI assistant for pretending to work. Join thousands of professionals who have reclaimed their time.',
+  icons: {
+    icon: '/sleeping.ico'
+  },
   openGraph: {
     title: 'WeSlackOff - Slack Smarter, Not Harder',
     description: 'WeSlackOff is an invisible AI assistant for pretending to work. Join thousands of professionals who have reclaimed their time.',
